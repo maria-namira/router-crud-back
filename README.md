@@ -1,6 +1,6 @@
 # CRUD 
 
-### Server: <a href="https://github.com/maria-namira/router-crud-front.git/">Heroku</a>
+### Server: <a href="https://github.com/maria-namira/router-crud-front.git/">github</a>
 
 ---
 
